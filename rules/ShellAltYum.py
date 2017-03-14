@@ -1,8 +1,8 @@
 from ansiblelint import AnsibleLintRule
 
 class ShellAltYum(AnsibleLintRule):
-    id = 'E516'
-    shortdesc = 'Use package module instead of Shell or Command execution'
+    id = 'E515'
+    shortdesc = 'Use Package module instead of Shell or Command execution'
     description = ''
     tags = ['shell', 'command']
 

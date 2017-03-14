@@ -1,7 +1,7 @@
 from ansiblelint import AnsibleLintRule
 
 class YumAltPackage(AnsibleLintRule):
-    id = 'E515'
+    id = 'E403'
     shortdesc = 'Use Package module instead of Yum module'
     description = ''
     tags = ['yum']

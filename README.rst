@@ -4,8 +4,6 @@ Rules for ansible-lint
 
 This is a rule set for `ansible-lint <https://github.com/willthames/ansible-lint>`_ .
 
-These rules are used in the `Tsukinowa Inc. <http://tsukinowa.jp>`_ , but anyone can use with the license (MIT).
-
 How to use
 ----------------
 
